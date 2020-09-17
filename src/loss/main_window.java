@@ -44,7 +44,7 @@ public class main_window extends javax.swing.JInternalFrame {
 
         jLabel2.setText("jLabel1");
 
-        jLabel3.setText("jLabel1");
+        jLabel3.setText("lkjhckljclkvjckjv");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -57,7 +57,7 @@ public class main_window extends javax.swing.JInternalFrame {
                 .addComponent(jLabel2)
                 .addGap(27, 27, 27)
                 .addComponent(jLabel3)
-                .addContainerGap(180, Short.MAX_VALUE))
+                .addContainerGap(143, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
